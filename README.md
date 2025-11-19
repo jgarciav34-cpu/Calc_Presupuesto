@@ -1,5 +1,5 @@
 # Calc_Presupuesto
-Caso 3: Calculadora de Presupuesto Mnesual
+Caso 3: Calculadora de Presupuesto Mensual
 
 ##  Descripción del proyecto
 Aplicación que permite registrar ingresos, gastos y generar un balance mensual. El objetivo es ayudar al usuario a gestionar sus finanzas personales de manera simple y rápida.
