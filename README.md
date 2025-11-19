@@ -1,12 +1,12 @@
 # Calc_Presupuesto
 Caso 3: Calculadora de Presupuesto Mnesual
 
-## 📌 Descripción del proyecto
+##  Descripción del proyecto
 Aplicación que permite registrar ingresos, gastos y generar un balance mensual. El objetivo es ayudar al usuario a gestionar sus finanzas personales de manera simple y rápida.
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 - Registrar transacciones de ingresos y gastos.
 - Calcular automáticamente el balance mensual.
 - Mostrar un resumen claro y entendible.
@@ -15,7 +15,7 @@ Aplicación que permite registrar ingresos, gastos y generar un balance mensual.
 
 ---
 
-## 📋 Requerimientos
+##  Requerimientos
 
 ### ✔ Requerimientos Funcionales
 - Gestión de transacciones (crear, editar, eliminar).
@@ -30,7 +30,7 @@ Aplicación que permite registrar ingresos, gastos y generar un balance mensual.
 
 ---
 
-## 🧪 Tabla de Pruebas Funcionales
+##  Tabla de Pruebas Funcionales
 
 | ID | Prueba | Entrada | Resultado esperado |
 |----|--------|---------|---------------------|
@@ -40,17 +40,17 @@ Aplicación que permite registrar ingresos, gastos y generar un balance mensual.
 
 ---
 
-## 🔧 Tipo de Mantenimiento Propuesto
+##  Tipo de Mantenimiento Propuesto
 **Perfectivo**, para mejorar la funcionalidad y experiencia del sistema mediante nuevas capacidades como exportación de reportes y gráficos.
 
 ---
 
-## 📘 Reflexión sobre Control de Versiones
+##  Reflexión sobre Control de Versiones
 GitHub permite mantener un historial claro del avance del proyecto, comparar versiones, corregir errores y colaborar eficazmente. Markdown facilita documentar de forma ligera, estructurada y compatible con GitHub.
 
 ---
 
-## 📁 Estructura del Repositorio
+##  Estructura del Repositorio
 ```
 /Caso_Seleccionado
 │── README.md
