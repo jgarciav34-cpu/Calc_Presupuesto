@@ -68,9 +68,6 @@ La siguiente tabla simula los resultados obtenidos durante la ejecución de las 
 
 ---
 
-## Estructura del Repositorio
----
-
 ##  Estructura del Repositorio
 ```
 /Caso_Seleccionado
